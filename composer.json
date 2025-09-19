@@ -1,6 +1,6 @@
 {
-    "name": "laminas/laminas-loader",
-    "description": "Autoloading and plugin loading strategies",
+    "name": "oroinc/laminas-loader",
+    "description": "A fork of laminas/laminas-loader",
     "license": "BSD-3-Clause",
     "keywords": [
         "laminas",
@@ -21,7 +21,6 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
-    "abandoned": true,
     "require": {
         "php": "~8.0.0 || ~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0"
     },
